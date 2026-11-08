@@ -161,5 +161,5 @@ NeuroScan is meant to support a doctor, not replace one. Images are not stored. 
 6. World Health Organization, "Dementia Fact Sheet," 2023.
 7. E. Hosseini-Asl et al., "Alzheimer's Disease Diagnosis Using a Deeply Supervised Adaptive 3D Convolutional Network," arXiv:1607.00556, 2016.
 8. I. Loshchilov and F. Hutter, "Decoupled Weight Decay Regularization," ICLR, 2019.
-9. J. Wen et al., "Applications of Convolutional Neural Networks to Classification of Alzheimer's Disease: A Review and Reproducibility Analysis," Frontiers in Neuroinformatics, 2020.
-10. S. J. Pan and Q. Yang, "A survey on transfer learning," IEEE TKDE, 2010.
+9. J. Wen et al., "Applications of Convolutional Neural Networks to Classification of Alzheimer's Disease: A Review and Reproducibility Analysis," Frontiers in Neuroinformatics, 2020
+
