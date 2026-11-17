@@ -28,13 +28,13 @@ Tested on a held-out 20% test split of OASIS.
 
 | Class | Precision | Recall | F1 |
 |---|---|---|---|
-| Non-Demented | 0.96 | 0.98 | 0.97 |
+| Non-Demented | 0.93 | 0.98 | 0.97 |
 | Very Mild Demented | 0.91 | 0.89 | 0.90 |
 | Mild Demented | 0.88 | 0.86 | 0.87 |
 | Moderate Demented | 0.83 | 0.79 | 0.81 |
 | Weighted average | 0.93 | 0.93 | 0.93 |
 
-Overall accuracy is about 93% and balanced accuracy about 88%. AUC-ROC is between 0.95 and 0.99 for all classes. Most mistakes are between neighbouring stages (Very Mild and Mild). Moderate Demented is the weakest class because the dataset has only about 64 original images of it.
+Overall accuracy is about 91% and balanced accuracy about 88%. AUC-ROC is between 0.95 and 0.99 for all classes. Most mistakes are between neighbouring stages (Very Mild and Mild). Moderate Demented is the weakest class because the dataset has only about 64 original images of it.
 
 The Grad-CAM heatmaps mostly focus on the temporal lobes, hippocampus and entorhinal cortex, which are the areas affected first in Alzheimer's.
 
